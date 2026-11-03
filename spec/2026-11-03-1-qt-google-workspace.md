@@ -1,5 +1,5 @@
 ---
-status: draft
+status: approved
 issue: 1
 intent: intent/2026-11-03-1-qt-google-workspace.md
 ---
